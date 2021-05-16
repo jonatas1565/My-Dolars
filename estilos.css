@@ -1,0 +1,50 @@
+img{
+    width: 70%;
+
+}
+
+body{
+    text-align: center;
+    background-color: #323232;
+}
+
+h1{
+    color: #cfff00;
+    font-size: 50px;
+}
+
+input{
+    width: 140px;
+    height: 30px;
+}
+
+#input-real{
+    border: 3px solid #cfff00;
+}
+
+#input-dolar{
+    border: 3px solid red;
+}
+
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 3px solid #cfff00;
+    border-radius: 10px;
+    background-color: #323232; 
+
+}
+
+button:hover{
+    color: #323232;
+    background-color: #cfff00;
+
+
+}
